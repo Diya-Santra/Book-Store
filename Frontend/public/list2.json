@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Mystery Tales",
+        "title": "Shadows Behind The Curtain",
+        "price": 150.99,
+        "category": "mystery",
+        "image":"https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 2,
+        "name": "Romance Adventures",
+        "title": "Love In Unexpected Places",
+        "price": 180.50,
+        "category": "romance",
+        "image": "https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 3,
+        "name": "Fantasy Kingdoms",
+        "title": "Kingdoms Of Forgotten Dreams",
+        "price": 220.75,
+        "category": "fantasy",
+        "image":"https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 4,
+        "name": "Self-Help Guide",
+        "title": "Small Steps To Great Change",
+        "price": 125.00,
+        "category": "self-help",
+        "image": "https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 5,
+        "name": "Historical Legends",
+        "title": "Echoes From The Past",
+        "price": 190.25,
+        "category": "history",
+        "image": "https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 6,
+        "name": "Thriller Secrets",
+        "title": "Chasing Shadows",
+        "price": 210.00,
+        "category": "thriller",
+        "image": "https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 7,
+        "name": "Science Wonders",
+        "title": "Exploring The Universe",
+        "price": 240.50,
+        "category": "science",
+        "image": "https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 8,
+        "name": "Adventure Trails",
+        "title": "Journey Through Wild Lands",
+        "price": 175.75,
+        "category": "adventure",
+        "image":"https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 9,
+        "name": "Poetry Collection",
+        "title": "Verses That Touch The Soul",
+        "price": 130.99,
+        "category": "poetry",
+        "image": "https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 10,
+        "name": "Drama Saga",
+        "title": "Tales Of Love And Betrayal",
+        "price": 160.00,
+        "category": "drama",
+        "image": "https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 11,
+        "name": "Tech Insights",
+        "title": "Understanding Modern Technology",
+        "price": 200.50,
+        "category": "technology",
+        "image":"https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    },
+    {
+        "id": 12,
+        "name": "Horror Nights",
+        "title": "Terrors That Haunt Your Mind",
+        "price": 225.75,
+        "category": "horror",
+        "image": "https://www.transparentpng.com/download/book/hfU1gl-book-transparent-background.png"
+    }
+]
